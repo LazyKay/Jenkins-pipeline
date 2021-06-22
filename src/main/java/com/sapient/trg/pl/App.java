@@ -12,5 +12,6 @@ public class App
 	{
            Person person = new Person(1,"Kishor","Chand",8171170097L);
            System.out.println(person.getFirstName());
+           System.out.println(person.getLastName());
 	}
 }
